@@ -6,6 +6,14 @@ Goal: Ensure effective design, engineering and delivery of a decentralized solut
 
 Our solution offers an Artificial Intelligence-based object detection system that utilizes Urbit and ethereum blockchain solutions powered by IPFS storage for sorting information obtained from a variety of road junctions, cameras deployed at monitoring spots.
 
+Urbit Integration
+
+1. Integration of webrtc protocol to Urbit for video conferencing and communication at the incident spot: We are extending the WebRTC integration for Urbit for just in time communication about the incidents by citizen, police officer, dispatcher, admin and government officials. Please visit: https://github.com/seetadev/Security22X/tree/main/roadincidentmanagement/urbit-webrtc
+
+2. Urbit Incident Survey Chatbot: We are using Urbit chatbot framework (poll example) and integrating it so that incident surveys could be integrated within the chat application specific to discussions on road incidents where there is dispute on its cause or impact. Please visit: https://github.com/seetadev/Security22X/tree/main/roadincidentmanagement/urbit-incident-survey
+
+3. Urbit Incident Notes: We are using Urbit based integration of TodoMVC example for implementing incident and monitoring notes maintained by transport administrators. Please visit: https://github.com/seetadev/Security22X/tree/main/roadincidentmanagement/urbit-monitoring-notes
+
 IPFS: We are using IPFS for storing a variety of offchain data like incident snapshots, alarm metadata and object types at the time of incident. Please find the demo video at  (demo_screen capture.mov under demo directory at https://drive.google.com/drive/u/3/folders/1wPLgUHDg1C4-TT8tPtQeVw_UyXeVA_Hc and source code link at https://github.com/seetadev/Security22X/tree/main/NFT.Storage-incidents-alarm). We are storing Alarm metadata using IPFS. Also, Saving/deleting alarm metadata and image to/from IPFS. We are also storing the hash returned from IPFS to Ethereum test network. Further we are using IPFS for: Video analytics configuration using IPFS; Camera Management: Add/edit/delete cameras with integration with oss streaming, IPFS; Live streaming with Object Detection Video Analytics, and IPFS for snapshots.
 
 Our IPFS powered solution will enable better coordination, enable road safety ecosystem to be more effective, proactive, help in early prediction and prevention of incidents. Please find the pitch deck and demo at https://drive.google.com/drive/u/3/folders/1wPLgUHDg1C4-TT8tPtQeVw_UyXeVA_Hc

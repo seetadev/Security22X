@@ -1,4 +1,4 @@
-# Dot Incident Monitor (Investigative Case Management)
+# Dot Incident Monitor
 
 Technical solution for security and monitoring road incidents using Polkadot, Urbit, Ethereum, IPFS and OSS AI models; enable early detection and prevention of accidents.
 

@@ -1,14 +1,8 @@
-# bacalhau-fvm-nft
+# Transport NFT for NFC tags of vehicles to improve road incident management
 Creating an NFT on the Filecoin Virtual Machine (FVM / FEVM) with Bacalhau Stable Diffusion
 
-![image](https://user-images.githubusercontent.com/12529822/215117833-3aa52700-7ee8-4298-9fbc-430af996e738.png)
+We are extending the example for creating an NFT on the Filecoin Virtual Machine (FVM / FEVM) with Bacalhau Stable Diffusion created by @developerally for Transport incident management and monitoring.
 
-
-Readme coming soon!
-
-[See the Video Presentation here](https://youtu.be/dpWzLqt4LV4)
-
-[Read the Blog Tutorial](https://developerally.hashnode.dev/build-your-own-ai-generated-art-nft-dapp)
 
 Contracts found under /pages/api/hardhat
 
@@ -21,4 +15,4 @@ Quick Start
 - npm install
 - npm run dev
 
-& apologies for the spaghetti code - I was in a bit of a rush <3
+

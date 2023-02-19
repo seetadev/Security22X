@@ -1,0 +1,21 @@
+{
+  "scripts": {
+    "build": "hardhat compile",
+    "test": "hardhat test"
+  },
+  "devDependencies": {
+    "@0xgafu/common-abi": "^1.0.3",
+    "@nomicfoundation/hardhat-toolbox": "^2.0.1",
+    "@nomiclabs/hardhat-ethers": "^2.2.2",
+    "ethers": "^5.7.2",
+    "hardhat": "^2.12.6",
+    "hardhat-deploy": "^0.11.23"
+  },
+  "dependencies": {
+    "@connext/smart-contracts": "^0.2.6",
+    "@openzeppelin/contracts": "^4.8.1",
+    "@openzeppelin/contracts-upgradeable": "^4.8.1",
+    "@uniswap/v3-periphery": "^1.4.3",
+    "dotenv": "^16.0.3"
+  }
+}

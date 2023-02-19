@@ -12,7 +12,8 @@ Real Time Alerts and Live Streaming: Real time alerts and live streaming for inc
 
 Real Time Analytics: Analytics of the incidents with sentiment analysis, live incident reporting. road safety eco-system. Health summary of the police staff, scheduling the staff. Reducing misinformation.
 
-Community Benefits:
+
+# Beneficiaries
 
 Ministry of Road and Transportation: Endeavor to change the car accident scenario by use of car technology to make driving safer and monitored for drivers, authorities, as well as other 3rd parties. With a mix of hardware and software, we provide intelligent feedback about drive quality and help analyze past incidents, as well as predict future incidents.
 
@@ -29,27 +30,23 @@ Advertisers: Customers/driver demographics are available.
 Fleet customers: fleet performance.
 
 
+# How it works:
+
+Camera Management: Add/edit/delete cameras with integration to Urbit for webrtc solution for video conferencing and communication at the incident spot and IPFS for snapshots of road incidents.
+
+Object Detection using OSS AI library based solution.
+
+Video analytics configuration using IPFS, security and data retrieval.
+
+Video conferencing using webrtc integration on Urbit and Live streaming with Object Detection Video Analytics, IPFS for snapshots. 
+
+Alarm storage using Ethereum. Save/delete alarm metadata and image to/from IPFS. Store the hash returned from IPFS to Ethereum test network using IPFS. Provide links to alarms and blockchain transaction details.
+
+Alarm Viewer: Add alarms with a single touch. Open the Alarm Settings menu from the home page. Add an alarm, set the wallpaper or choose an alarm tone. You can also delete an existing alarm. 
 
 
 
-# Beneficiaries
-
-Our solution will be useful to -
-
-OEM and Dealerships: Vehicle diagnostics, in-car service consumption
-
-Federal/State Department of Transport: Breakdown data, accident data
-
-Smart Cities: Real-time traffic flow, incident alert, parking
-
-Insurance Companies: Aggregated, anonymized driving data, incident data
-
-Police Officers, dispatchers, drivers, pedestrians, passengers, civic bodies
-
-Advertisers: Customer demographics
-
-
-
+# Pre-hackathon
 Urbit Integration
 
 1. Integration of webrtc protocol to Urbit for video conferencing and communication at the incident spot: We are extending the WebRTC integration for Urbit for just in time video communication about the incidents reported by citizens and coordinated by police officer, dispatcher, admin and government officials at the command and control center. Please visit: https://github.com/seetadev/Security22X/tree/main/roadincidentmanagement/urbit-webrtc
@@ -64,19 +61,6 @@ Our IPFS powered solution will enable better coordination, enable road safety ec
 
 
 
-# How it works:
-
-Camera Management: Add/edit/delete cameras with integration to Urbit for webrtc solution for video conferencing and communication at the incident spot and IPFS for snapshots of road incidents.
-
-Object Detection using OSS AI library based solution.
-
-Video analytics configuration using IPFS, security and data retrieval.
-
-Video conferencing using webrtc integration on Urbit and Live streaming with Object Detection Video Analytics, IPFS for snapshots. 
-
-Alarm storage using Ethereum. Save/delete alarm metadata and image to/from IPFS. Store the hash returned from IPFS to Ethereum test network using IPFS. Provide links to alarms and blockchain transaction details.
-
-Alarm Viewer: Add alarms with a single touch. Open the Alarm Settings menu from the home page. Add an alarm, set the wallpaper or choose an alarm tone. You can also delete an existing alarm. 
 
 
 

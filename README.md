@@ -88,16 +88,21 @@ We are using Livepeer ondemand service to enable effective management and commun
  
  Please visit https://github.com/seetadev/Security22X/tree/main/Solution-Modules/vehicle-credits-pollution-check
  
- 
-9. Connext: Decentralized NFT-based voting system for RFPs and donations on L2 and communication using Connext-
-- DAOs or Organisations create a RFP on the app.
-- Users can join a RFP by minting an NFT of that RFP
-- Users that have a certain RFP's NFT are eligible to create proposals and vote on them.
-- Voting is gasless and the vote is stored on IPFS 
+9. Arcana: We are extending the Arcana demo app for utilizing the user security and authentication, storage methods with capabilities pluggable and extendable to 5 different personas: Driver, Police, Citizen, Dispatcher, Admin. Arcana enables 360 degrees access of the incidents to the action/ administration team. They can manage the complete lifecycle of incident reporting, overall status, traffic monitoring, managing police teams. They can also use the solution for effective user security of staff members and provide road safety counselling. Please visit: https://github.com/seetadev/Security22X/tree/main/Solution-Modules/authentication-user-security 
  
  
-10. Arcana: We are extending the Arcana demo app for utilizing the user security and authentication, storage methods with capabilities pluggable and extendable to 5 different personas: Driver, Police, Citizen, Dispatcher, Admin. Arcana enables 360 degrees access of the incidents to the action/ administration team. They can manage the complete lifecycle of incident reporting, overall status, traffic monitoring, managing police teams. They can also use the solution for effective user security of staff members and provide road safety counselling. Please visit: https://github.com/seetadev/Security22X/tree/main/Solution-Modules/authentication-user-security
+10. Connext: We are utilizing Connext for developing the feature of splitting road management expenses and get support from government, private and civil society bodies. Connext enables us to develop the communication across the chains. Using xDonation.sol allows anyone to donate funds, regardless of what chain they are on. Donors send funds to the contract, and at any point an approved sweeper can call sweep which will swap into the donation asset and send the funds to the specified address and chain. We wish to utilize Connext with L2 layer for developing smart contract for setting parameters at deployment and handling payments from every listed user, connext for communication across chains; Balancing and simplifying settlements among members; Chainlink oracles for price feeds; Exchanging tokens. Please visit https://github.com/seetadev/Security22X/tree/main/Solution-Modules/crosschain/split-expenses-get-donations
 
+We are utilizing Zodiac Modules and Modifiers for developing the following use-case using Connext: Decentralized NFT-based voting system for RFPs and donations on Metis (L2) and communication using Connext. Quotation, Bidding, voting and token management for contract work undertaken by transport organizations can be managed with the following workflow -
+-DAOs or Organisations create a RFP on the app.
+-Users can join a RFP by minting an NFT of that RFP
+- Users that have a certain RFP's NFT are eligible to create proposals and vote on them.
+- Voting is gasless and the vote is stored on IPFS
+This also enables sharing of government assets like traffic routes, government vehicle's details information for geolocation and travel routes, license management and quarterly maintenance check and control.
+Please visit https://github.com/seetadev/Security22X/tree/main/Solution-Modules/crosschain/zodiac-module-connext
+
+
+ 
 
 
 # Pre-hackathon developments at the github repository

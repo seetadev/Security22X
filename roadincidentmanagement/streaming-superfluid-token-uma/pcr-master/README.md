@@ -1,17 +1,10 @@
 # Perpetual Conditional Reward
 
-PCR: Perpetual Conditional Reward
-The PCR projects started when a UMA/Superfluid bounty has been communicated. Although the bounty was reserved we continued the project already started to have a working interface/backend
-
 ## Major problems it solves
 
 One of the most common problems of DAO's is achieving to have steady involvement of members.
 PCR helps to solve this problem proposing a reward to be ditributed upon certain conditions (KPI's) periodically.
 
-
-Deployed dapp on kovan [https://perpetual-conditional-reward.web.app
-](https://perpetual-conditional-reward.web.app
-)
 
 UMA Oprimist Oracle [dashboard](https://optimistic-oracle-dapp-5liuk09wg-uma.vercel.app/)
  

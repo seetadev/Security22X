@@ -62,9 +62,7 @@ IPFS: We are using IPFS for storing a variety of offchain data like incident sna
 
 Our IPFS powered solution will enable better coordination, enable road safety ecosystem to be more effective, proactive, help in early prediction and prevention of incidents. Please find the pitch deck and demo at https://drive.google.com/drive/u/3/folders/1wPLgUHDg1C4-TT8tPtQeVw_UyXeVA_Hc
 
-Website: https://sites.google.com/view/urbit-transport-icm/home?authuser=6
 
-Slides and Demo Videos: https://drive.google.com/drive/u/3/folders/1wPLgUHDg1C4-TT8tPtQeVw_UyXeVA_Hc
 
 # How it works:
 

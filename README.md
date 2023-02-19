@@ -84,6 +84,14 @@ Issue green credits for vehicles via pollution checks;
 List your green credits per vehicle; 
 Handle multiple vehicles.
  
+9. Connext: Decentralized NFT-based voting system for RFPs and donations on L2 and communication using Connext-
+-DAOs or Organisations create a RFP on the app.
+-Users can join a RFP by minting an NFT of that RFP
+- Users that have a certain RFP's NFT are eligible to create proposals and vote on them.
+- Voting is gasless and the vote is stored on IPFS 
+ 
+ 
+10. Arcana: We are extending the Arcana demo app for utilizing the user security and authentication, storage methods with capabilities pluggable and extendable to 5 different personas: Driver, Police, Citizen, Dispatcher, Admin. Arcana enables 360 degrees access of the incidents to the action/ administration team. They can manage the complete lifecycle of incident reporting, overall status, traffic monitoring, managing police teams. They can also use the solution for effective user security of staff members and provide road safety counselling. 
 
 
 

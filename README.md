@@ -1,6 +1,33 @@
 # Transport Monitor
 
-Technical solution for security and monitoring road incidents using Polkadot, Urbit, Ethereum, IPFS and OSS AI models; enable early detection and prevention of accidents.
+Effective design, engineering, delivery of Ethereum, IPFS and Web3 tools aided solution for vehicles and citizens to make roads safer and better for everyone using predictive analytics and automation.
+
+Transport Monitor is an analytics and incident management platform for citizens, police officers, drivers to report and manage incidents, detect and prevent accidents on web, mobile in a secure and simplified manner using Ethereum, IPFS and Web3 tools aided solution.  Features:
+
+360 degrees access: Command and control centers can manage the complete lifecycle of incident reporting, overall status, enable early stage prevention of accidents and road safety counseling, management of workforce at the incident site.
+
+Incident Dashboard: Manage and track your incidents as a citizen along with sharing reviews and comments. Incident reporting, severity analytics and sentiment analysis using social media data for early stage detection and prevention of incidents.
+
+Real Time Alerts and Live Streaming: Real time alerts and live streaming for incident verification and quick action.
+
+Real Time Analytics: Analytics of the incidents with sentiment analysis, live incident reporting. road safety eco-system. Health summary of the police staff, scheduling the staff. Reducing misinformation.
+
+Community Benefits:
+
+Ministry of Road and Transportation: Endeavor to change the car accident scenario by use of car technology to make driving safer and monitored for drivers, authorities, as well as other 3rd parties. With a mix of hardware and software, we provide intelligent feedback about drive quality and help analyze past incidents, as well as predict future incidents.
+
+Citizens and Cab aggregators: Reduction in the number of road accidents.
+
+Insurance Companies: Aggregated/ anonymized driving data, incident data will be helpful to car insurance companies.
+
+OEMs and Dealerships: Vehicle diagnostics and in-car service consumption will be helpful for OEMs and Dealerships.
+
+Smart Cities Policy Makers/ Government: Real time traffic flow, incident alert, parking data will be enable safer roads.
+
+Advertisers: Customers/driver demographics are available.
+
+Fleet customers: fleet performance.
+
 
 
 

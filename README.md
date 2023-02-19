@@ -96,7 +96,7 @@ We are using Livepeer ondemand service to enable effective management and commun
 - Voting is gasless and the vote is stored on IPFS 
  
  
-10. Arcana: We are extending the Arcana demo app for utilizing the user security and authentication, storage methods with capabilities pluggable and extendable to 5 different personas: Driver, Police, Citizen, Dispatcher, Admin. Arcana enables 360 degrees access of the incidents to the action/ administration team. They can manage the complete lifecycle of incident reporting, overall status, traffic monitoring, managing police teams. They can also use the solution for effective user security of staff members and provide road safety counselling. 
+10. Arcana: We are extending the Arcana demo app for utilizing the user security and authentication, storage methods with capabilities pluggable and extendable to 5 different personas: Driver, Police, Citizen, Dispatcher, Admin. Arcana enables 360 degrees access of the incidents to the action/ administration team. They can manage the complete lifecycle of incident reporting, overall status, traffic monitoring, managing police teams. They can also use the solution for effective user security of staff members and provide road safety counselling. Please visit: https://github.com/seetadev/Security22X/tree/main/Solution-Modules/authentication-user-security
 
 
 

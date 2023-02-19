@@ -12,6 +12,8 @@ Real Time Alerts and Live Streaming: Real time alerts and live streaming for inc
 
 Real Time Analytics: Analytics of the incidents with sentiment analysis, live incident reporting. road safety eco-system. Health summary of the police staff, scheduling the staff. Reducing misinformation.
 
+Demo: https://drive.google.com/drive/u/1/folders/1PhwZ5JzHvmDZA8h9j-FIVmOAVCTV_TP9
+
 
 # Beneficiaries
 
@@ -43,6 +45,7 @@ Video conferencing using webrtc integration on Urbit and Live streaming with Obj
 Alarm storage using Ethereum. Save/delete alarm metadata and image to/from IPFS. Store the hash returned from IPFS to Ethereum test network using IPFS. Provide links to alarms and blockchain transaction details.
 
 Alarm Viewer: Add alarms with a single touch. Open the Alarm Settings menu from the home page. Add an alarm, set the wallpaper or choose an alarm tone. You can also delete an existing alarm. 
+
 
 # EthforAll hackathon using Web3 eco-system tooling:
 

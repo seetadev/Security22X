@@ -76,6 +76,8 @@ Please visit: https://github.com/seetadev/Security22X/tree/main/interop-payments
 Functions: Live streaming with Object Detection Video Analytics using Livepeer for streaming; Camera Management: Add/edit/delete cameras with integration with Livepeer.
 We are using Livepeer ondemand service to enable effective management and communication setup for transport services utilized in Operations and Maintenance across multiple regions.  Please visit Livepeer integration with Aptos and also minting Livepeer Video NFT at Aptos.
 
+Please visit: https://github.com/seetadev/Security22X/tree/main/Solution-Modules/video-stream-social-platform/social-data-framework-apt-livepeer
+
 
 7. Consensys's Infura and Metamask tools with Optimism NFT marketplace and Scalability of Decentralized Public Goods, Mobility Network Enablement: Optimism NFT marketplace for vehicle's spare parts and also for early-stage detection and prevention of incidents using Infura; NFC tags of vehicles for enabling sharing of government assets and service/repair of vital assets. Improving Data Transparency in Incident Management Using Ethereum Blockchain, Infura, Metamask and Optimism NFT marketplace. Optimism NFT marketplace for NFC tags of vehicles for enabling sharing of government assets and service/repair of vital assets. We are also using Optimism to enable scaling of the decentralized public goods mobility network and effective management and communication setup for services utilized in Operations and Maintenance across multiple regions. Please visit https://github.com/seetadev/Security22X/tree/main/nft-marketplace/vehicle-spare-parts-nft-optimism-marketplace
 

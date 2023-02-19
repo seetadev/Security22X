@@ -1,0 +1,15 @@
+
+\.idea/
+.vs/
+*bin*
+*obj*
+*error.log
+**/obj/
+**/bin/
+node_modules/
+*.nuget.g.targets
+
+
+*.user
+
+\.vscode/

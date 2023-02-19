@@ -1,0 +1,22 @@
+<ion-header>
+  <ion-navbar>
+    <ion-title>{{ selectedFile | capitalize}}<span *ngIf="selectedFile == 'Untitled'">(*)</span></ion-title>
+    <ion-buttons end>
+      <!-- <button ion-button (click)="presentPopover($event)" primary>Select</button> -->
+    </ion-buttons>
+  </ion-navbar>
+  <ion-toolbar>
+    <div class="wide-as-needed">
+        <button ion-button *ngFor="let footer of footers" (click)="activateFooter(footer)" [ngClass]="{'active': footer.isActive, 'button-custom': !footer.isActive }"> {{footer.name}} </button>
+    </div>
+  </ion-toolbar>
+</ion-header>
+
+<ion-content padding class="page-home">
+
+  
+
+  <div id="workbookControl" #workbookControl style="background-color:#80A9F3;"></div>
+  <div id="tableeditor" #tableeditor>editor goes here</div>    
+  <div id="msg" onclick="this.innerHTML='&nbsp;';"></div>
+</ion-content>

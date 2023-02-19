@@ -1,0 +1,16 @@
+<ion-header>
+  <ion-navbar>
+    <ion-title>Template: {{ selectedTemplate }}</ion-title>
+  </ion-navbar>
+</ion-header>
+
+
+<ion-content class="template-popover">
+
+	<ion-list>
+	<ion-list-header></ion-list-header>
+		<button ion-item detail-none (click)="switchTemplate('ledger')">Ledger</button>
+		<button ion-item detail-none (click)="switchTemplate('home')">Sales Activity</button>
+	</ion-list>
+
+</ion-content>

@@ -44,9 +44,50 @@ Alarm storage using Ethereum. Save/delete alarm metadata and image to/from IPFS.
 
 Alarm Viewer: Add alarms with a single touch. Open the Alarm Settings menu from the home page. Add an alarm, set the wallpaper or choose an alarm tone. You can also delete an existing alarm. 
 
+# EthforAll hackathon using Ethereum blockchain and Web3 eco-system
+
+1. FVM:  We are utilizing FVM to develop and use composable blocks and ensure effective design, engineering and delivery of a decentralized solution for road safety, monitoring and incident management using Ethereum & Filecoin eco-system tools:
+
+- Decentralized NFT-based voting system for contract work for service & maintenance providers and companies and Ministry of Transportation. DAOs can issue NFTs to wallets based on service and maintenance performance and work completed, and the holders of these NFTs can create proposals and vote on other proposals whilst they have the NFTs of that contract work. Votes are uploaded to IPFS with the most recent vote linking to one before. 
+
+- Creating a Transport NFT on the FVM for NFC tags of vehicle service and repair providers & vehicles to improve road incident management, decentralized NFT-based voting system for contract work by service providers, Votes are uploaded to IPFS with the most recent vote linking to one before.
+
+2. SuperFluid + UMA: We are using Superfluid as a token streaming protocol that lets vehicle users and consumers create streams of tokens fluidly between addresses. This will enable effective incentivization, management and communication setup for service/repair organizations utilized in Operations and Maintenance. We are extending Superfluid’s streaming tokens with UMA’s KPI Options: Perpetual Conditional Rewards (PCR) tokens that combine Superfluid’s programmable cashflows with UMA’s KPI option concepts. Service Users and administrators would receive immediate benefits and feedback based on how that KPI was doing. Immediate feedback like this would be highly motivating. 
+
+3. Polywrap with Axelar: We are using Polywrap with Axelar for communication between Polygon blockchain and Fantom destination chain: 
+- Government organizations can send aUSDC from Polygon source-chain to Fantom destination-chain and distribute it equally among all accounts specified for subsidy or reimbursement using call contract with token.
+- Cross chain lending platform: We can supply collateral and borrow tokens from a satellite chain to a fork of Ethereum's mainnet using existing Compound Protocol.
+- Cross chain dapp development: We are extending the starter kit to develop cross chain dapps using Polywrap, Axelar.
+
+4. Chainlink: E-Challan (Transport Receipt) Bill Generation: We are utilizing Chainlink Mix to work with Chainlink smart contracts. The bill script will deploy a smart contract to goerli and get a Random number via Chainlink VRF, which can used to identify a unique transaction/order number for the receipt or bill.
+
+- We are extending and adapting the Chainlink project "Link My Ride" to develop a decentralized first aid and ambulance platform by using Chainlink External Adapter to connect a Tesla Vehicle API to a Chainlink oracle for a peer-to-peer vehicle rental app. We wish to use it for Maruti Vehicle API and Hyundai Vehicle API too. 
+
+- Parametric Insurance Solution in public transportation especially for project finance. We are utilizing an existing example at chainlink github repo to develop an insurance solution for public transportation.
 
 
-# Pre-hackathon
+5. Polygon: We are utilizing ZoraModuleManager, and ZoraProtocolFeeSettings in our our dapp and deploying it on Polygon after registering the Zora market module. We are developing a crowdsourcing marketplace using Zora's auction house template for enabling sharing of government assets like prepaid card, meter details information, meter license management and quarterly pollution check and control. We are using the zora starter kit to access ZORA API, Creator Toolkit, and Marketplace Hyperstructure. Zora's Auction House template is being utilized for NFT marketplace of alarm clock wallpapers and background ringtones purchase and auction.
+
+
+6. Livepeer: We are using Livepeer with Aptos as the key infrastructure provider for online video streaming of critical road incidents. We are using Livepeer with Aptos at: Live streaming with Object Detection Video Analytics using Livepeer for streaming; Camera Management: Add/edit/delete cameras with integration with Livepeer.
+Functions: Live streaming with Object Detection Video Analytics using Livepeer for streaming; Camera Management: Add/edit/delete cameras with integration with Livepeer.
+We are using Livepeer ondemand service to enable effective management and communication setup for transport services utilized in Operations and Maintenance across multiple regions.  Please visit Livepeer integration with Aptos and also minting Livepeer Video NFT at Aptos.
+
+
+7. Consensys's Infura and Metamask tools with Optimism NFT marketplace and Scalability of Decentralized Public Goods, Mobility Network Enablement: Optimism NFT marketplace for vehicle's spare parts and also for early-stage detection and prevention of incidents using Infura; NFC tags of vehicles for enabling sharing of government assets and service/repair of vital assets. Improving Data Transparency in Incident Management Using Ethereum Blockchain, Infura, Metamask and Optimism NFT marketplace. Optimism NFT marketplace for NFC tags of vehicles for enabling sharing of government assets and service/repair of vital assets. We are also using Optimism to enable scaling of the decentralized public goods mobility network and effective management and communication setup for services utilized in Operations and Maintenance across multiple regions.
+
+8. Mantle: We are using Mantle to develop a platform where users can issue, manage and transfer credits of ratings earned for vehicle owners and their respective vehicles via pollution checks,  green fuel adoption in vehicles:
+User creation procedure; 
+User identification with NFC tags; 
+Create credits of ratings earned via pollution checks, green fuel  assets; 
+Issue green credits for vehicles via pollution checks; 
+List your green credits per vehicle; 
+Handle multiple vehicles.
+ 
+
+
+
+# Pre-hackathon developments at the github repository
 Urbit Integration
 
 1. Integration of webrtc protocol to Urbit for video conferencing and communication at the incident spot: We are extending the WebRTC integration for Urbit for just in time video communication about the incidents reported by citizens and coordinated by police officer, dispatcher, admin and government officials at the command and control center. Please visit: https://github.com/seetadev/Security22X/tree/main/roadincidentmanagement/urbit-webrtc

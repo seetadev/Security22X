@@ -1,6 +1,8 @@
 # Consensys' Challenge: Infura + Metamask +Optimism NFT Marketplace
 Optimism NFT marketplace for enabling sharing of government assets and service/repair of vehicle assets. We are extending and building the nft marketplace using lost and found NFT marketplace example tempalte build on Optimism.
----##  IDE Setup + Environment Variables
+
+##  IDE Setup + Environment Variables
+
 > Clone the repo
 > Install```cd vehicle-spare-parts-nft-optimism-marketplaceyarn install```
 This scaffold-eth fork is pointed at the **Ethereum Mainnet** out of the box (instead of localhost like usual).

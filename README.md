@@ -85,8 +85,8 @@ List your green credits per vehicle;
 Handle multiple vehicles.
  
 9. Connext: Decentralized NFT-based voting system for RFPs and donations on L2 and communication using Connext-
--DAOs or Organisations create a RFP on the app.
--Users can join a RFP by minting an NFT of that RFP
+- DAOs or Organisations create a RFP on the app.
+- Users can join a RFP by minting an NFT of that RFP
 - Users that have a certain RFP's NFT are eligible to create proposals and vote on them.
 - Voting is gasless and the vote is stored on IPFS 
  

@@ -1,0 +1,11 @@
+node_modules
+.DS_Store
+dist
+dist-ssr
+*.local
+.firebase
+.firebaserc
+firebase.json
+.env
+public/storage.umd.js
+public/wallet.min.js

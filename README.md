@@ -80,12 +80,14 @@ We are using Livepeer ondemand service to enable effective management and commun
 7. Consensys's Infura and Metamask tools with Optimism NFT marketplace and Scalability of Decentralized Public Goods, Mobility Network Enablement: Optimism NFT marketplace for vehicle's spare parts and also for early-stage detection and prevention of incidents using Infura; NFC tags of vehicles for enabling sharing of government assets and service/repair of vital assets. Improving Data Transparency in Incident Management Using Ethereum Blockchain, Infura, Metamask and Optimism NFT marketplace. Optimism NFT marketplace for NFC tags of vehicles for enabling sharing of government assets and service/repair of vital assets. We are also using Optimism to enable scaling of the decentralized public goods mobility network and effective management and communication setup for services utilized in Operations and Maintenance across multiple regions. Please visit https://github.com/seetadev/Security22X/tree/main/nft-marketplace/vehicle-spare-parts-nft-optimism-marketplace
 
 8. Mantle: We are using Mantle to develop a platform where users can issue, manage and transfer credits of ratings earned for vehicle owners and their respective vehicles via pollution checks,  green fuel adoption in vehicles:
-User creation procedure; 
-User identification with NFC tags; 
-Create credits of ratings earned via pollution checks, green fuel  assets; 
-Issue green credits for vehicles via pollution checks; 
-List your green credits per vehicle; 
-Handle multiple vehicles.
+- User creation procedure; User identification with NFC tags; 
+- Create credits of ratings earned via pollution checks, green fuel  assets; 
+- Issue green credits for vehicles via pollution checks; 
+- List your green credits per vehicle; 
+- Handle multiple vehicles.
+ 
+ Please visit https://github.com/seetadev/Security22X/tree/main/Solution-Modules/vehicle-credits-pollution-check
+ 
  
 9. Connext: Decentralized NFT-based voting system for RFPs and donations on L2 and communication using Connext-
 - DAOs or Organisations create a RFP on the app.

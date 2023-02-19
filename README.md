@@ -2,9 +2,7 @@
 
 Technical solution for security and monitoring road incidents using Polkadot, Urbit, Ethereum, IPFS and OSS AI models; enable early detection and prevention of accidents.
 
-Goal: Ensure effective design, engineering and delivery of a decentralized solution to make roads safer and better using Polkadot, Urbit, Ethereum, IPFS and OSS AI.
 
-Our solution offers an Artificial Intelligence-based object detection system that utilizes Polkadot, Urbit and ethereum blockchain solutions powered by IPFS storage for sorting information obtained from a variety of road junctions, cameras deployed at monitoring spots.
 
 
 # Beneficiaries

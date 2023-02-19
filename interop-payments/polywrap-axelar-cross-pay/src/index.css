@@ -1,0 +1,207 @@
+@font-face {
+  font-family: "Druk Text";
+  src: local("PitchSans-Regular"),
+    url("./fonts/DrukCyr-Heavy.ttf") format("truetype");
+}
+
+@font-face {
+  font-family: "Pitch Sans";
+  src: local("PitchSans-Regular"),
+    url("./fonts/TestPitchSans-Regular.otf") format("truetype");
+}
+
+@font-face {
+  font-family: "ITC Franklin Gothic Std";
+  src: local("ITCFranklinGothicStd"),
+    url("./fonts/ITCFranklinGothicStd-Book.otf") format("truetype");
+  font-weight: 400;
+}
+
+@font-face {
+  font-family: "ITC Franklin Gothic Std";
+  src: local("ITCFranklinGothicStd"),
+    url("./fonts/ITCFranklinGothicStd-Demi.otf") format("truetype");
+  font-weight: bold;
+}
+
+@import url("https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600&family=Manrope&display=swap");
+
+body {
+  margin: 0;
+  font-family: "ITC Franklin Gothic Std", -apple-system, BlinkMacSystemFont,
+    "Segoe UI", "Roboto", "Oxygen", "Ubuntu", "Cantarell", "Fira Sans",
+    "Droid Sans", "Helvetica Neue", sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, "Courier New",
+    monospace;
+}
+
+.inputs {
+  display: flex;
+  gap: 20px;
+}
+.inputs label {
+  display: flex;
+  flex-direction: column;
+  text-align: left;
+  font-size: 16px;
+  width: 200px;
+}
+.inputs label input.input {
+  height: 33px;
+  border-radius: 4px;
+}
+
+.inputs label input:focus {
+  outline: none;
+}
+
+h1 {
+  font-family: "Druk Text";
+  font-size: 112px;
+  line-height: 100%;
+  font-weight: 900;
+}
+
+h2 {
+  font-family: "Druk Text";
+  font-size: 24px;
+  font-weight: 700;
+}
+.ant-layout {
+  position: relative;
+  overflow: hidden;
+  min-height: 100vh;
+  background-color: white;
+}
+
+header.ant-layout-header {
+  display: flex;
+  justify-content: flex-end;
+  background: transparent;
+  height: fit-content;
+  padding: 20px;
+  align-items: center;
+}
+
+form.ant-form {
+  width: 520px !important;
+}
+
+.ant-form .ant-form-item {
+  width: 100%;
+}
+
+.ant-select-selector,
+.ant-input-affix-wrapper {
+  display: flex;
+  flex-direction: column;
+  height: 71px !important;
+  padding: 16px 8px 18px 20px !important;
+  background: rgba(11, 3, 1, 0.04) !important;
+  backdrop-filter: blur(40px);
+  border-radius: 0 !important;
+}
+
+.ant-select-dropdown,
+.ant-popover .ant-popover-content .ant-popover-inner,
+.ant-notification-notice {
+  background: rgba(11, 3, 1, 0.04) !important;
+  backdrop-filter: blur(40px);
+  border-radius: 0 !important;
+}
+.ant-select-item-option-selected {
+  background-color: #019ef7 !important;
+  color: white !important;
+}
+
+.ant-select-selector,
+.ant-select-selector:hover,
+.ant-input-affix-wrapper,
+.ant-input-affix-wrapper:hover,
+d {
+  border: none !important;
+}
+
+.ant-select-selection-item,
+.ant-input {
+  font-family: "ITC Franklin Gothic Std";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 22px;
+  color: #0b0301;
+  overflow: visible;
+  background: transparent;
+}
+
+.ant-select-selector::before,
+.ant-input-prefix {
+  font-family: "Pitch Sans";
+  display: block;
+  color: #0b0301;
+  opacity: 0.5;
+  font-style: normal;
+  font-weight: 400;
+  font-size: 12px;
+  line-height: 16px;
+}
+.ant-input-affix-wrapper::before {
+  display: none;
+}
+
+.fromChain .ant-select-selector::before {
+  content: "From Chain";
+}
+
+.toChain .ant-select-selector::before {
+  content: "To Chain";
+}
+
+.assetSelect .ant-select-selector::before {
+  content: "Asset";
+}
+
+.ant-input-suffix {
+  position: absolute;
+  top: 25px;
+  right: 25px;
+}
+
+.ant-btn {
+  font-family: "ITC Franklin Gothic Std" !important;
+  text-transform: uppercase;
+  font-weight: bold !important;
+}
+
+.ant-btn.ant-btn-primary {
+  background: #019ef7;
+  height: 60px;
+  font-size: 16px;
+  line-height: 18px;
+  border: none;
+}
+
+[data-icon="question-circle"] {
+  width: 22px;
+  height: 22px;
+}
+
+.sticky {
+  position: fixed;
+  z-index: 10;
+  top: 0;
+  right: 0;
+}
+
+.ant-select-arrow {
+  color: black;
+}
+
+.blue {
+  color: #019ef7;
+}

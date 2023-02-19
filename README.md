@@ -44,7 +44,7 @@ Alarm storage using Ethereum. Save/delete alarm metadata and image to/from IPFS.
 
 Alarm Viewer: Add alarms with a single touch. Open the Alarm Settings menu from the home page. Add an alarm, set the wallpaper or choose an alarm tone. You can also delete an existing alarm. 
 
-# EthforAll hackathon using Ethereum blockchain and Web3 eco-system
+# EthforAll hackathon using Web3 eco-system tooling:
 
 1. FVM:  We are utilizing FVM to develop and use composable blocks and ensure effective design, engineering and delivery of a decentralized solution for road safety, monitoring and incident management using Ethereum & Filecoin eco-system tools:
 

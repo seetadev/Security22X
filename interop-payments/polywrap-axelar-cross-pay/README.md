@@ -9,3 +9,9 @@ We are extending the example for Avalanche and Polygon cross chain communication
 
 ### How to run
 `yarn && yarn start`
+
+References:
+
+1. https://github.com/polywrap/awesome-polywrap
+
+2. https://github.com/ConsiderItDone/axelar-demo-app

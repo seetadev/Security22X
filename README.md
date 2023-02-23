@@ -64,7 +64,7 @@ Demo at https://drive.google.com/drive/u/3/folders/1hOsc9nE3OEyn-NiS1m1X0__p0ibg
 - Cross chain lending platform: We can supply collateral and borrow tokens from a satellite chain to a fork of Ethereum's mainnet using existing Compound Protocol.
 - Cross chain dapp development: We are extending the starter kit to develop cross chain dapps using Polywrap, Axelar.
 
-Please visit: https://github.com/seetadev/Security22X/tree/main/interop-payments/polywrap-axelar-cross-pay
+Please visit: https://github.com/seetadev/Security22X/tree/main/interop-payments/polywrap-axelar-cross-pay. We are extending the example for Avalanche and Polygon cross chain communication using Axelar with Polywrap: https://github.com/ConsiderItDone/axelar-demo-app
 
 
 4. Chainlink: E-Challan (Transport Receipt) Bill Generation: We are utilizing Chainlink Mix to work with Chainlink smart contracts. The bill script will deploy a smart contract to goerli and get a Random number via Chainlink VRF, which can used to identify a unique transaction/order number for the receipt or bill. We are also extending and adapting the Chainlink project "Link My Ride" to develop a decentralized first aid and ambulance platform by using Chainlink External Adapter to connect a Tesla Vehicle API to a Chainlink oracle for a peer-to-peer vehicle rental app. We wish to use it for Maruti Vehicle API and Hyundai Vehicle API too. Please visit: https://github.com/seetadev/Security22X/tree/main/Solution-Modules/hybrid-solution-module/decentralized-ambulance and https://github.com/seetadev/Security22X/tree/main/Solution-Modules/hybrid-solution-module/billing-tool-invoice-generator

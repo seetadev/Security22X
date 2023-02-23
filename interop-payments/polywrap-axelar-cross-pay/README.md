@@ -5,7 +5,7 @@ We are using Polywrap with Axelar for communication between Polygon blockchain a
 - Cross chain lending platform: We can supply collateral and borrow tokens from a satellite chain to a fork of Ethereum's mainnet using existing Compound Protocol.
 - Cross chain dapp development: We are extending the starter kit to develop cross chain dapps using Polywrap, Axelar.
 
-We are extending the example for Avalanche and Polygon using Axelar: https://github.com/ConsiderItDone/axelar-demo-app
+We are extending the example for Avalanche and Polygon cross chain communication using Axelar with Polywrap: https://github.com/ConsiderItDone/axelar-demo-app
 
 ### How to run
 `yarn && yarn start`

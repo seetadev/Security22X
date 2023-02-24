@@ -6,6 +6,11 @@ We are using Polywrap with Axelar for communication between Polygon blockchain a
 - Cross chain dapp development: We are extending the starter kit to develop cross chain dapps using Polywrap, Axelar.
 
 We are extending the example for Avalanche and Polygon cross chain communication using Axelar with Polywrap: https://github.com/ConsiderItDone/axelar-demo-app
+Our goal is to develop cross chain interoperability in communication, payments, analytics with Axelar using Polywrap. 
+
+Benefits for Ministry of Road and Transportation: Endeavor to change the scenario by use of cross chain interoperability in communication with Axelar and Polywrap to make driving safer and monitored for drivers, authorities, 3rd parties. Our solution wish to provide intelligent feedback about drive quality, help analyze past incidents, as well as predict future incidents.
+
+
 
 ### How to run
 `yarn && yarn start`

@@ -50,7 +50,7 @@ Alarm Viewer: Add alarms with a single touch. Open the Alarm Settings menu from 
 # Web3 eco-system tooling:
 
 1a. Fantom: We are extending and developing a solution on Fantom web3 wallet (PWA) and information explorer to provide a decentralize platform for making post-dated insurance, service and repair cryptocurrency payments for vehicles. We are further utilizing a data analytics OSS tool powered by SocialCalc for managing information and payments to emergency service providers, maintenance and repair servicemen and also insurance and cab aggregator providers for availing their services.
-We are also developing a rental and subscription marketplace using Fantom's NFT marketplace for enabling sharing of government assets like toll prepaid card, car details information for interstate travel, driving license management and quarterly pollution check and analytics/visualization powered by Ethercalc (SocialCalc) for better coordination and immediate action. 
+We are also developing a rental and subscription marketplace using Fantom's NFT marketplace for enabling sharing of government assets like toll prepaid card, car details information for interstate travel, driving license management and quarterly pollution check and analytics/visualization powered by Ethercalc (SocialCalc) for better coordination and immediate action. Please visit https://github.com/seetadev/Security22X/tree/main/transport-defi-nft-fantom
 
 We wish to enable tabulation, data organization and management, in an easy-to-use analysis tool that summarises core data and features of a Token or NFT such as chains used, origin, issuer, energy consumption, and minting method. We also wish to enable private payments for vehicle repair.
 

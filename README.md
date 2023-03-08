@@ -1,8 +1,8 @@
 # Transport Monitor
 
-Effective design, engineering, delivery of Ethereum, IPFS and Web3 tools aided solution for vehicles and citizens to make roads safer and better for everyone using predictive analytics and automation.
+Effective design, engineering, delivery of Ethereum, Fantom, IPFS and Web3 tools aided solution for vehicles and citizens to make roads safer and better for everyone using predictive analytics and automation.
 
-Transport Monitor is an analytics and incident management platform for citizens, police officers, drivers to report and manage incidents, detect and prevent accidents on web, mobile in a secure and simplified manner using Ethereum, IPFS and Web3 tools aided solution.  Features:
+Transport Monitor is an analytics and incident management platform for citizens, police officers, drivers to report and manage incidents, detect and prevent accidents on web, mobile in a secure and simplified manner using Ethereum, IPFS, Fantom and Web3 tools aided solution.  Features:
 
 360 degrees access: Command and control centers can manage the complete lifecycle of incident reporting, overall status, enable early stage prevention of accidents and road safety counseling, management of workforce at the incident site.
 
@@ -47,9 +47,14 @@ Alarm storage using Ethereum. Save/delete alarm metadata and image to/from IPFS.
 Alarm Viewer: Add alarms with a single touch. Open the Alarm Settings menu from the home page. Add an alarm, set the wallpaper or choose an alarm tone. You can also delete an existing alarm. 
 
 
-# EthforAll hackathon using Web3 eco-system tooling:
+# Web3 eco-system tooling:
 
-1. FVM:  We are utilizing FVM to develop and use composable blocks and ensure effective design, engineering and delivery of a decentralized solution for road safety, monitoring and incident management using Ethereum & Filecoin eco-system tools:
+1a. Fantom: We are extending and developing a solution on Fantom web3 wallet (PWA) and information explorer to provide a decentralize platform for making post-dated insurance, service and repair cryptocurrency payments for vehicles. We are further utilizing a data analytics OSS tool powered by SocialCalc for managing information and payments to emergency service providers, maintenance and repair servicemen and also insurance and cab aggregator providers for availing their services.
+We are also developing a rental and subscription marketplace using Fantom's NFT marketplace for enabling sharing of government assets like toll prepaid card, car details information for interstate travel, driving license management and quarterly pollution check and analytics/visualization powered by Ethercalc (SocialCalc) for better coordination and immediate action. 
+
+We wish to enable tabulation, data organization and management, in an easy-to-use analysis tool that summarises core data and features of a Token or NFT such as chains used, origin, issuer, energy consumption, and minting method. We also wish to enable private payments for vehicle repair.
+
+1b. FVM:  We are utilizing FVM to develop and use composable blocks and ensure effective design, engineering and delivery of a decentralized solution for road safety, monitoring and incident management using Ethereum & Filecoin eco-system tools:
 
 - Decentralized NFT-based voting system for contract work for service & maintenance providers and companies and Ministry of Transportation. DAOs can issue NFTs to wallets based on service and maintenance performance and work completed, and the holders of these NFTs can create proposals and vote on other proposals whilst they have the NFTs of that contract work. Votes are uploaded to IPFS with the most recent vote linking to one before. Please visit https://github.com/seetadev/Security22X/tree/main/roadincidentmanagement/dao-fvm
 

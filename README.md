@@ -2,7 +2,7 @@
 
 Effective design, engineering, delivery of Ethereum, Mantle, Chainlink, IPFS and Web3 tools aided solution for vehicles and citizens to make roads safer and better for everyone using predictive analytics and automation.
 
-Transport Monitor is an analytics and incident management platform for citizens, police officers, drivers to report and manage incidents, detect and prevent accidents on web, mobile in a secure and simplified manner using Ethereum, IPFS, Fantom and Web3 tools aided solution.  Features:
+Transport Intel is an analytics and incident management platform for citizens, police officers, drivers to report and manage incidents, detect and prevent accidents on web, mobile in a secure and simplified manner using Ethereum, IPFS, Mantle, Chainlink and Web3 tools aided solution.  Features:
 
 360 degrees access: Command and control centers can manage the complete lifecycle of incident reporting, overall status, enable early stage prevention of accidents and road safety counseling, management of workforce at the incident site.
 

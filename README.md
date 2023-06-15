@@ -49,6 +49,8 @@ Alarm Viewer: Add alarms with a single touch. Open the Alarm Settings menu from 
 
 # Web3 eco-system tooling:
 
+## Mantle: Mantle allows hyper scalability of the Ethereum network, leveraging roll-up technology and a decentralized data availability layer to increase efficiency and performance in the mobility ecosystem, all while reducing fees and latency.
+
 1a.  Mantle: We are using Mantle to develop a platform where users can issue, manage and transfer credits of ratings earned for vehicle owners and their respective vehicles via pollution checks,  green fuel adoption in vehicles:
 - User creation procedure; User identification with NFC tags; 
 - Create credits of ratings earned via pollution checks, green fuel  assets; 
